@@ -3,7 +3,7 @@
 
 이 repository는 결혼식 초대를 위한 모바일청첩장입니다. 
 
-![메인사진](https://github.com/sangyun-sunkyo-wedding/branden-kang.github.io/blob/master/docs/images/main-background.jpg)
+![메인사진](https://github.com/sangyun-sunkyo-wedding/blob/master/docs/images/main-background.jpg)
 
 ## 예식정보
 
